@@ -73,19 +73,5 @@ return {
 + Nhận xét thành quả đạt được!!!
 
 
-demo kết quả cuối cùng:
 
-chát với bot:
-
-<img width="471" height="264" alt="image" src="https://github.com/user-attachments/assets/7c439503-63b4-4529-bbec-78fa1d4933d6" />
-
-flow automation của n8n (nhìn bên ngoài):
-
-<img width="1319" height="389" alt="image" src="https://github.com/user-attachments/assets/abbdc5af-952f-4d50-8fba-0cafc7334212" />
-
-
-bài tự động đăng trên wp:
-
-<img width="750" height="817" alt="image" src="https://github.com/user-attachments/assets/4f7c0cec-292f-4973-9eb0-1534189cdb18" />
-
-#BÀI LÀM·
+# BÀI LÀM·
