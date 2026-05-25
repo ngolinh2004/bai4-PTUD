@@ -75,15 +75,23 @@ return {
 
 
 # BÀI LÀM·
-<img width="476" height="305" alt="{248D6F43-3B90-4811-BD48-6CFA68602B56}" src="https://github.com/user-attachments/assets/7c93afe5-a3f5-4f57-a05e-b93e05cd777f" />
 
-<img width="348" height="71" alt="{97BEDED8-3C27-4510-B60C-EF3A7B7319D6}" src="https://github.com/user-attachments/assets/f33420f5-0adb-4c0b-9a70-8a01a6b1dfb5" />
+1. Tạo thư mục
+  <img width="645" height="82" alt="image" src="https://github.com/user-attachments/assets/6938480f-3df6-4dfa-9842-3a784ec1914e" />
+
+  
+2. Tạo file
+   <img width="940" height="457" alt="image" src="https://github.com/user-attachments/assets/b8f79cc9-9cd3-49e4-810b-e1dd8e0cc0bb" />
+
+   <img width="940" height="459" alt="image" src="https://github.com/user-attachments/assets/ab6c9fb1-44b1-4ee1-b670-270afcf12bff" />
 
 
-<img width="381" height="286" alt="{8D965AFD-148A-492F-AE04-0C1AC547E2B0}" src="https://github.com/user-attachments/assets/64d03bd0-4651-48b1-874a-8ff433c155bb" />
+3. Chạy docker
+   <img width="940" height="181" alt="image" src="https://github.com/user-attachments/assets/f52dd0cb-12c9-4dc0-862d-c98ac7e9a174" />
 
-<img width="379" height="413" alt="{7B5DFB48-811E-491E-9476-620AD591BBAA}" src="https://github.com/user-attachments/assets/cca88c2d-ba69-40b4-a35b-a98b9512438b" />
+4.Cấu hình Public hostname
+  -
+   <img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/6e04e1d0-e940-4e1a-82ed-118ba5827702" />
 
-<img width="379" height="346" alt="{C4303F89-6B93-4055-B155-934871EACAC2}" src="https://github.com/user-attachments/assets/bd912012-9eb5-4e9f-891c-2714153c71e9" />
-
+   <img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/d2c6f7e5-c738-4ed1-9d3a-3730bd43a779" />
 
