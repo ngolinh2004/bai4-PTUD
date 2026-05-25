@@ -76,19 +76,19 @@ return {
 
 # BÀI LÀM·
 ## 1. Cấu Hình Docker Compose & Khởi Chạy Hệ Thống
-  - Cấu hình tệp `docker-compose.yml`
+  - Tạo file
     
   <img width="645" height="82" alt="image" src="https://github.com/user-attachments/assets/6938480f-3df6-4dfa-9842-3a784ec1914e" />
 
   
-## 2.Tạo file
+  - Cấu hình tệp `docker-compose.yml`
 
    <img width="940" height="457" alt="image" src="https://github.com/user-attachments/assets/b8f79cc9-9cd3-49e4-810b-e1dd8e0cc0bb" />
 
    <img width="940" height="459" alt="image" src="https://github.com/user-attachments/assets/ab6c9fb1-44b1-4ee1-b670-270afcf12bff" />
 
 
-## 3. Chạy docker
+  - Khởi chạy các Container
    <img width="940" height="181" alt="image" src="https://github.com/user-attachments/assets/f52dd0cb-12c9-4dc0-862d-c98ac7e9a174" />
 
 ## 4. Cấu hình Public hostname trên Cloudflare
