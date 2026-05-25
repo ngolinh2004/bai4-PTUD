@@ -150,6 +150,44 @@ return {
 
   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/c8c9a16a-aaad-4af6-84b0-972c9958c8b5" />
 
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/b1b17b7b-d3d0-4f88-8236-e6a92e59d245" />
+
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/7c231779-3a07-49a1-a58c-ea80f761f1f5" />
+
+## 9. Thiết lập Workflow - Code JS & WordPress
+
+  <img width="940" height="481" alt="image" src="https://github.com/user-attachments/assets/5d89c2bc-decf-490f-ae9a-0b6a296e85fa" />
+
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/f8c9da3f-bc65-4220-a77c-c410b7668dd4" />
+
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/6053d923-dd00-448b-8201-ce53954dbde6" />
+
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/f1431b81-4f26-492b-8b0b-ed618072c2b3" />
+
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/c238249a-c570-46ba-ae63-09d705881437" />
+
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/d454f1fd-3e54-4165-9c2b-bd80c46c94e2" />
+
+## 10. Chạy thử nghiệm và Kết quả
+
+  <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/da945b60-3403-42f0-bee7-054d724d2286" />
+
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/1907d525-c8f3-4f89-9a37-92b3be51f8e8" />
+
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/727d5f22-5bd0-46c0-a1b2-6441d39005ba" />
+
+
+## Nhận xét thành quả đạt được
+  - Trong quá trình thực hiện bài tập, em đã triển khai thành công hệ thống WordPress chạy bằng Docker Compose kết hợp với MariaDB, PhpMyAdmin, Cloudflare Tunnel và n8n. Sau khi hoàn tất cấu hình, các service đều hoạt động ổn định và có thể truy cập từ internet thông qua các sub-domain đã cấu hình trên Cloudflare.
+
+  - Em đã cài đặt WordPress thành công, kiểm tra cơ sở dữ liệu bằng PhpMyAdmin và tạo được các bài viết theo yêu cầu. Bên cạnh đó, em cũng cấu hình workflow trên n8n để tự động hóa quá trình đăng bài từ Telegram lên WordPress thông qua Google Gemini AI. Hệ thống có thể nhận nội dung từ Telegram Bot, gửi prompt đến Gemini AI để tạo bài viết HTML, xử lý dữ liệu JSON bằng JavaScript rồi tự động publish bài viết lên website WordPress.
+
+  - Trong quá trình thực hiện, em gặp một số khó khăn như lỗi container restart liên tục do sai biến môi trường, lỗi Cloudflare Tunnel chưa public đúng service, lỗi Telegram Trigger không nhận tin nhắn vì chưa chat bot lần đầu và lỗi AI trả về dữ liệu JSON không đúng định dạng. Ngoài ra còn có lỗi credential của WordPress và Gemini bị sai khiến workflow không hoạt động đúng. Sau khi kiểm tra log container, chỉnh sửa workflow và cấu hình lại credential, em đã khắc phục được các lỗi và hệ thống hoạt động bình thường.
+
+  - Qua bài tập này, em học được cách sử dụng Docker để triển khai nhiều service cùng lúc, cách public ứng dụng bằng Cloudflare Tunnel, sử dụng n8n để xây dựng workflow automation và tích hợp AI vào hệ thống thực tế. Đây là một bài tập giúp em hiểu rõ hơn về tự động hóa quy trình và cách kết nối nhiều nền tảng khác nhau để tạo thành một hệ thống hoàn chỉnh.
+
+
+
 
 
 
