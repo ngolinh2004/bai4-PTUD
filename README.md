@@ -75,3 +75,15 @@ return {
 
 
 # BÀI LÀM·
+<img width="476" height="305" alt="{248D6F43-3B90-4811-BD48-6CFA68602B56}" src="https://github.com/user-attachments/assets/7c93afe5-a3f5-4f57-a05e-b93e05cd777f" />
+
+<img width="348" height="71" alt="{97BEDED8-3C27-4510-B60C-EF3A7B7319D6}" src="https://github.com/user-attachments/assets/f33420f5-0adb-4c0b-9a70-8a01a6b1dfb5" />
+
+
+<img width="381" height="286" alt="{8D965AFD-148A-492F-AE04-0C1AC547E2B0}" src="https://github.com/user-attachments/assets/64d03bd0-4651-48b1-874a-8ff433c155bb" />
+
+<img width="379" height="413" alt="{7B5DFB48-811E-491E-9476-620AD591BBAA}" src="https://github.com/user-attachments/assets/cca88c2d-ba69-40b4-a35b-a98b9512438b" />
+
+<img width="379" height="346" alt="{C4303F89-6B93-4055-B155-934871EACAC2}" src="https://github.com/user-attachments/assets/bd912012-9eb5-4e9f-891c-2714153c71e9" />
+
+
