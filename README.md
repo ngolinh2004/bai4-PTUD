@@ -75,12 +75,11 @@ return {
 
 
 # BÀI LÀM·
-
-1. Tạo thư mục
+1.Tạo thư mục
   <img width="645" height="82" alt="image" src="https://github.com/user-attachments/assets/6938480f-3df6-4dfa-9842-3a784ec1914e" />
 
   
-2. Tạo file
+2.Tạo file
    <img width="940" height="457" alt="image" src="https://github.com/user-attachments/assets/b8f79cc9-9cd3-49e4-810b-e1dd8e0cc0bb" />
 
    <img width="940" height="459" alt="image" src="https://github.com/user-attachments/assets/ab6c9fb1-44b1-4ee1-b670-270afcf12bff" />
@@ -89,9 +88,50 @@ return {
 3. Chạy docker
    <img width="940" height="181" alt="image" src="https://github.com/user-attachments/assets/f52dd0cb-12c9-4dc0-862d-c98ac7e9a174" />
 
-4.Cấu hình Public hostname
-  -
+4. Cấu hình Public hostname trên Cloudflare
+   
+  - WordPress
+    
    <img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/6e04e1d0-e940-4e1a-82ed-118ba5827702" />
-
+   
+  - phpMyAdmin
+ 
    <img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/d2c6f7e5-c738-4ed1-9d3a-3730bd43a779" />
+
+  - Tổng quan các routes/tunnels đã tạo
+
+    <img width="940" height="413" alt="image" src="https://github.com/user-attachments/assets/6b2e3954-a143-47d2-bcb3-09fef3f8891e" />
+
+5. Giao diện đăng nhập phpMyAdmin
+   
+   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/25a1fc30-a660-4946-97ee-ecfed9379b69" />
+
+6. Cài đặt WordPress
+
+  - Cài ngôn ngữ
+    
+   <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/a221e531-8814-4e41-9980-958a2847d3b5" />
+   
+  - Điền thông tin quản trị viên
+
+    <img width="940" height="504" alt="image" src="https://github.com/user-attachments/assets/d601c5b0-5e22-4105-99c4-aab189c85df8" />
+
+  - Giao diện trang chủ blog
+
+    <img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/e3604a58-93fe-42d2-a248-ec1ffff97616" />
+
+  - Giao diện trang quản trị
+
+    <img width="940" height="506" alt="image" src="https://github.com/user-attachments/assets/e8fee3e2-0857-4128-98f7-bee4ef30e23e" />
+
+  - Bài viết tự động đăng lên WordPress "Người bạn tài giỏi của tôi - Hoàng Kim Ngọc
+
+    <img width="940" height="495" alt="image" src="https://github.com/user-attachments/assets/9fc31450-3751-4d21-9059-16ba35069561" />
+
+7. Quá trình chat với BotFather để tạo Telegram bot mới
+
+   <img width="654" height="1454" alt="image" src="https://github.com/user-attachments/assets/8b636c37-01a8-4f7e-bb09-c3b830c186c5" />
+
+   <img width="654" height="1454" alt="image" src="https://github.com/user-attachments/assets/f1208bc1-7a34-465b-affc-25d3ac63374b" />
+
 
