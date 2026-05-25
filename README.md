@@ -75,20 +75,22 @@ return {
 
 
 # BÀI LÀM·
-1.Tạo thư mục
+## 1.Tạo thư mục
+
   <img width="645" height="82" alt="image" src="https://github.com/user-attachments/assets/6938480f-3df6-4dfa-9842-3a784ec1914e" />
 
   
-2.Tạo file
+## 2.Tạo file
+
    <img width="940" height="457" alt="image" src="https://github.com/user-attachments/assets/b8f79cc9-9cd3-49e4-810b-e1dd8e0cc0bb" />
 
    <img width="940" height="459" alt="image" src="https://github.com/user-attachments/assets/ab6c9fb1-44b1-4ee1-b670-270afcf12bff" />
 
 
-3. Chạy docker
+## 3. Chạy docker
    <img width="940" height="181" alt="image" src="https://github.com/user-attachments/assets/f52dd0cb-12c9-4dc0-862d-c98ac7e9a174" />
 
-4. Cấu hình Public hostname trên Cloudflare
+## 4. Cấu hình Public hostname trên Cloudflare
    
   - WordPress
     
@@ -102,11 +104,11 @@ return {
 
     <img width="940" height="413" alt="image" src="https://github.com/user-attachments/assets/6b2e3954-a143-47d2-bcb3-09fef3f8891e" />
 
-5. Giao diện đăng nhập phpMyAdmin
+## 5. Giao diện đăng nhập phpMyAdmin
    
    <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/25a1fc30-a660-4946-97ee-ecfed9379b69" />
 
-6. Cài đặt WordPress
+## 6. Cài đặt WordPress
 
   - Cài ngôn ngữ
     
@@ -128,7 +130,7 @@ return {
 
     <img width="940" height="495" alt="image" src="https://github.com/user-attachments/assets/9fc31450-3751-4d21-9059-16ba35069561" />
 
-7. Quá trình chat với BotFather để tạo Telegram bot mới
+## 7. Quá trình chat với BotFather để tạo Telegram bot mới
 
    <img width="654" height="1454" alt="image" src="https://github.com/user-attachments/assets/8b636c37-01a8-4f7e-bb09-c3b830c186c5" />
 
