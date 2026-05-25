@@ -130,10 +130,28 @@ return {
 
     <img width="940" height="495" alt="image" src="https://github.com/user-attachments/assets/9fc31450-3751-4d21-9059-16ba35069561" />
 
-## 7. Quá trình chat với BotFather để tạo Telegram bot mới
+## 7. Khởi tạo và Kích hoạt n8n
+    
+    <img width="940" height="517" alt="image" src="https://github.com/user-attachments/assets/0a79de80-b9d9-44f1-b6a5-ac186d321fc0" />
 
-   <img width="654" height="1454" alt="image" src="https://github.com/user-attachments/assets/8b636c37-01a8-4f7e-bb09-c3b830c186c5" />
+    
+    <img width="940" height="466" alt="image" src="https://github.com/user-attachments/assets/e6879997-2a62-47ba-8891-bbb8b8622847" />
 
-   <img width="654" height="1454" alt="image" src="https://github.com/user-attachments/assets/f1208bc1-7a34-465b-affc-25d3ac63374b" />
+
+## 8. Thiết lập Workflow - Telegram & Gemini
+
+  <img width="654" height="1454" alt="image" src="https://github.com/user-attachments/assets/2c12674a-b0fe-45e8-8345-17f462f4d741" />
+
+  <img width="654" height="1454" alt="image" src="https://github.com/user-attachments/assets/c11b0cbe-cd17-401e-a62e-938816414b7e" />
+
+  <img width="940" height="464" alt="image" src="https://github.com/user-attachments/assets/827699e0-dc27-4ed4-8e23-6505f2e1f2a2" />
+
+  <img width="940" height="380" alt="image" src="https://github.com/user-attachments/assets/2d518ef5-b5e4-499c-a8cf-6e81ef703865" />
+
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/c8c9a16a-aaad-4af6-84b0-972c9958c8b5" />
+
+
+
+
 
 
