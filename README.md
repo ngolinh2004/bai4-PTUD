@@ -75,8 +75,9 @@ return {
 
 
 # BÀI LÀM·
-## 1.Tạo thư mục
-
+## 1. Cấu Hình Docker Compose & Khởi Chạy Hệ Thống
+  - Cấu hình tệp `docker-compose.yml`
+    
   <img width="645" height="82" alt="image" src="https://github.com/user-attachments/assets/6938480f-3df6-4dfa-9842-3a784ec1914e" />
 
   
